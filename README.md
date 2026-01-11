@@ -48,7 +48,7 @@
 # Edge Cases Implemented
 -Invalid pickup/drop handling
 -Dynamic price change on package update.
--Edit flow with state retention 
+ 
 
 # Limitations
 -No real Payment
